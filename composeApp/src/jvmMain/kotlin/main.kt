@@ -19,3 +19,7 @@ fun main() = application {
         App()
     }
 }
+
+@Preview
+@Composable
+fun AppPreview() { App() }
